@@ -1,0 +1,2 @@
+# DjangoEmailAPI
+DjangoEmailAPI
